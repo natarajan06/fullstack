@@ -1,0 +1,44 @@
+
+  
+  /* Styles for the image with class 't' */
+  /* .t {
+    width: 150px;
+    height: 500px;
+    border-radius: 10px;
+  } */
+  
+  
+  /* Styles for the heading with class 'ft' */
+  
+  .rt
+  {
+     width: 150px;
+     height: 500px;
+     font-size: 20px;
+     
+    }
+    .ft
+    {
+     height: 500px;
+    margin-top: 300px;
+       font-size: 60px;
+   }
+   .innovation-button {
+       background-color: #4caf50;
+       border-radius: 2%;
+       color: rgb(0, 0, 0);
+       padding: 10px 20px;
+       font-size: 16px;
+       cursor: pointer;
+     }
+   
+     /* src/Footer.module.css */
+   .footer-icons {
+       display: flex;
+      justify-content:first baseline;
+       font-size: 24px;
+       margin-bottom: 10px;
+       
+       width: 300;
+     }
+     
